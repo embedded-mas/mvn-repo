@@ -3,11 +3,12 @@
   <groupId>embedded-mas</groupId>
   <artifactId>embedded-mas</artifactId>
   <versioning>
-    <release>0.0270602</release>
+    <release>0.0270603</release>
     <versions>
       <version>0.0270601</version>
       <version>0.0270602</version>
+      <version>0.0270603</version>
     </versions>
-    <lastUpdated>20210708122600</lastUpdated>
+    <lastUpdated>20210708125715</lastUpdated>
   </versioning>
 </metadata>
